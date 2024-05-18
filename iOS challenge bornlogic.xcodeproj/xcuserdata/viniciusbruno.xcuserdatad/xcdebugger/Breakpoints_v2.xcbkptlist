@@ -46,8 +46,8 @@
             filePath = "iOS challenge bornlogic/HomeNews/Router/HomeNewsRouter.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "presentArticleDetail(for:)"
             landmarkType = "7">
          </BreakpointContent>

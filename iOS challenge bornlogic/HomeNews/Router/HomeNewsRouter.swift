@@ -1,10 +1,3 @@
-//
-//  HomeNewsRouter.swift
-//  iOS challenge bornlogic
-//
-//  Created by Vinicius Bruno on 12/05/24.
-//
-
 import Foundation
 import UIKit
 
